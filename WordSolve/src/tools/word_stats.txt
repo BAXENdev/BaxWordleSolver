@@ -1,0 +1,28 @@
+Letter       | Letter count & percent of all letters    | Word count & percent of all words       
+Total        | Letter total = 28795                     | Word total = 5759                       
+Letter "a"   | Count = 2348 ; Percent = 8.15            | Count = 2181 ; Percent = 37.87          
+Letter "b"   | Count = 715 ; Percent = 2.48             | Count = 669 ; Percent = 11.62           
+Letter "c"   | Count = 964 ; Percent = 3.35             | Count = 920 ; Percent = 15.97           
+Letter "d"   | Count = 1181 ; Percent = 4.10            | Count = 1100 ; Percent = 19.10          
+Letter "e"   | Count = 3009 ; Percent = 10.45           | Count = 2658 ; Percent = 46.15          
+Letter "f"   | Count = 561 ; Percent = 1.95             | Count = 502 ; Percent = 8.72            
+Letter "g"   | Count = 679 ; Percent = 2.36             | Count = 651 ; Percent = 11.30           
+Letter "h"   | Count = 814 ; Percent = 2.83             | Count = 791 ; Percent = 13.74           
+Letter "i"   | Count = 1592 ; Percent = 5.53            | Count = 1539 ; Percent = 26.72          
+Letter "j"   | Count = 89 ; Percent = 0.31              | Count = 88 ; Percent = 1.53             
+Letter "k"   | Count = 596 ; Percent = 2.07             | Count = 574 ; Percent = 9.97            
+Letter "l"   | Count = 1586 ; Percent = 5.51            | Count = 1434 ; Percent = 24.90          
+Letter "m"   | Count = 843 ; Percent = 2.93             | Count = 794 ; Percent = 13.79           
+Letter "n"   | Count = 1285 ; Percent = 4.46            | Count = 1219 ; Percent = 21.17          
+Letter "o"   | Count = 1915 ; Percent = 6.65            | Count = 1683 ; Percent = 29.22          
+Letter "p"   | Count = 955 ; Percent = 3.32             | Count = 895 ; Percent = 15.54           
+Letter "q"   | Count = 53 ; Percent = 0.18              | Count = 53 ; Percent = 0.92             
+Letter "r"   | Count = 1910 ; Percent = 6.63            | Count = 1799 ; Percent = 31.24          
+Letter "s"   | Count = 3033 ; Percent = 10.53           | Count = 2674 ; Percent = 46.43          
+Letter "t"   | Count = 1585 ; Percent = 5.50            | Count = 1462 ; Percent = 25.39          
+Letter "u"   | Count = 1089 ; Percent = 3.78            | Count = 1068 ; Percent = 18.54          
+Letter "v"   | Count = 318 ; Percent = 1.10             | Count = 309 ; Percent = 5.37            
+Letter "w"   | Count = 505 ; Percent = 1.75             | Count = 501 ; Percent = 8.70            
+Letter "x"   | Count = 139 ; Percent = 0.48             | Count = 138 ; Percent = 2.40            
+Letter "y"   | Count = 886 ; Percent = 3.08             | Count = 868 ; Percent = 15.07           
+Letter "z"   | Count = 135 ; Percent = 0.47             | Count = 121 ; Percent = 2.10            
